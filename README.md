@@ -11,8 +11,8 @@ __Authors:__<br>
 
 <br><br>
 
-  * [pronunciation of part 1]()<br>
-  * [pronunciation of part 2]()<br>
+  * [pronunciation of part 1](https://github.com/VMormoris/ImageFiltering/blob/master/pronunciations/CPP2017_Assignment1.pdf)<br>
+  * [pronunciation of part 2](https://github.com/VMormoris/ImageFiltering/blob/master/pronunciations/CPP2017_Assignment2-2.pdf)<br>
 ## Examples of how to use the program:
 
   ![Example 1](images/filter_ex1.png)
