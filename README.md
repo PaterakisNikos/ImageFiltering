@@ -15,8 +15,8 @@ __Authors:__<br>
   * [pronunciation of part 2]()<br>
 ## Examples of how to use the program:
 
-  [Example 1!](images/filter_ex1.png)
+  ![Example 1](images/filter_ex1.png)
   <br>
-  [Example 2-4!](images/filter_ex2-4.png)
+  ![Example 2-4](images/filter_ex2-4.png)
   <br>
-  [Example 5!](images/filter_ex5.png)
+  ![Example 5](images/filter_ex5.png)
